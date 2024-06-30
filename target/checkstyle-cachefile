@@ -1,0 +1,5 @@
+#Sun Jun 30 21:25:56 EEST 2024
+configuration*?=F3DD077EB434B7AB13C9479EC8D291F4070FBDC9
+module-resource*?\:checkstyle-xpath-suppressions.xml=B2CAC138059072E70F48368D5271F8F073FB5EF0
+module-resource*?\:checkstyle-suppressions.xml=823B38DB27B0B6F6D59664FD33AA7E850F651422
+/var/lib/jenkins/workspace/vprofile-pipeline/src/main/resources/application.properties=1719771867841
